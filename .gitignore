@@ -27,5 +27,8 @@ Thumbs.db
 *.swo
 *~
 
+# Local notes / requirements (keep out of repo)
+docs/
+
 # Optional: uncomment if you add tests later
 # coverage/
